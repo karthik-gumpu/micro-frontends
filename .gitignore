@@ -1,0 +1,4 @@
+server-app/node_modules
+master-app/node_modules
+micro-app-1/node_modules
+micro-app-2/node_modules
